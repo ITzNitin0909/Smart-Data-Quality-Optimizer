@@ -1,0 +1,4 @@
+Issue,Count,Recommendation,Auto Fix
+Negative Quantity,12302,Check returns and credit notes,No
+Zero Price,3681,Verify free items and missing prices,No
+Negative Price,3,Review accounting adjustments,No
